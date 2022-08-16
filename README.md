@@ -1,14 +1,26 @@
 <h1 align="center">Hi, I'm Cata Santini<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate Full Stack Web Developer and a student from Argentina.</h3>
+<h3 font-size="20" align="center">A passionate woman and a student from Argentina.</h3>
 
 <h2>About me</h2>
-I’ve always been motivated by new challenges and people. I consider team work as the way to get to great results. 
-
+I’ve always been motivated by new challenges and people. I consider team work as the way to get to great results. I'm an enthusiastic and creative woman. Organization, time management and communication are really important for me. 
+<br/>
+<br/>
 ~ Keep on capacitating myself is a must in my life. ~
-
+<br/>
+<br/>
 I’ve just finished my Full Stack Web Developer bootcamp on Henry. Javascript, HTML, CSS, React, Redux, NodeJS and Postgres SQL are some of the technologies I’m familiarised with. During this bootcamp I've made an individual project and a final project.
 
-
+<h2>My Projects</h2>
+<h3>Final Proyect</h3>
+<a href="https://henry-final-project.vercel.app">Davo Shoes</a>
+<br/>
+<h3>My team:<h3/>
+  <h5>Andrés Medina</h5>
+  <h5>Nicolás Marinelli</h5>
+  <h5>Luis Verges</h5>
+  <h5>Estefanía Bologna</h5>
+  <h5>Gabriel Weht</h5>
+  <h5>Mario Alfonzo Núñez</h5>
 
 <h2>Technologies</h2>
 <h3>Languages</h3>
@@ -64,8 +76,12 @@ I’ve just finished my Full Stack Web Developer bootcamp on Henry. Javascript, 
       alt="sqlite"/> 
   </a>
 </p>
+  
+<h3 font-size="20" align="center">If you liked my profile and want to contact me, please don't hesitate, your message is always welcome!</h3>
+
+  
 <h3>Contact info</h3>
-<a href="https://www.linkedin.com/in/catalinasantiniechegaray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>;
+<a href="https://www.linkedin.com/in/catalinasantiniechegaray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:santinicatalina@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 <!--
